@@ -1,0 +1,2 @@
+echo -n "baz! "
+date
